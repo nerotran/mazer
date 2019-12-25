@@ -1,4 +1,5 @@
 # mazer
+requires: pygame
 
 A mini puzzle game where the player solves through progressively harder mazes. I made the game in python using pygame for a school project.
 
